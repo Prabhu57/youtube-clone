@@ -1,6 +1,6 @@
 
 .header{
-  height: 56px;
+  height: 66px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -35,7 +35,7 @@
   
   width:180px;
   height: 32px;
-  margin: 10px 25px;
+  margin: 16px 25px;
   display:flex;
   justify-content: space-between;
   align-items: center;
